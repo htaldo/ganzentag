@@ -1,0 +1,5 @@
+1A	Cimientos, paredes	0	4
+2B	Plomería, electricidad	1	2
+3C	Techos			1	3
+4D	Pintura exterior	1	1
+5E	Pintura interior	2,3	5
